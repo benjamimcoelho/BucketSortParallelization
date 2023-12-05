@@ -1,0 +1,106 @@
+Compute 113 3
+
+L1 Data Cache:
+  Total size:            32 KB
+  Line size:             64 B
+  Number of Lines:      512
+  Associativity:          8
+
+L2 Unified Cache:
+  Total size:           256 KB
+  Line size:             64 B
+  Number of Lines:     4096
+  Associativity:          8
+
+L3 Unified Cache:
+  Total size:          8192 KB
+  Line size:             64 B
+  Number of Lines:   131072
+  Associativity:         16
+
+  
+  Compute 113 17
+ 
+L1 Data Cache:
+  Total size:            32 KB
+  Line size:             64 B
+  Number of Lines:      512
+  Associativity:          8
+
+L2 Unified Cache:
+  Total size:           256 KB
+  Line size:             64 B
+  Number of Lines:     4096
+  Associativity:          8
+
+L3 Unified Cache:
+  Total size:          8192 KB
+  Line size:             64 B
+  Number of Lines:   131072
+  Associativity:         16
+
+compute-134-6
+
+L1 Data Cache:
+  Total size:            32 KB
+  Line size:             64 B
+  Number of Lines:      512
+  Associativity:          8
+
+L2 Unified Cache:
+  Total size:           256 KB
+  Line size:             64 B
+  Number of Lines:     4096
+  Associativity:          8
+
+L3 Unified Cache:
+  Total size:          8192 KB
+  Line size:             64 B
+  Number of Lines:   131072
+  Associativity:         16
+
+compute-165-1
+
+L1 Data Cache:
+  Total size:            32 KB
+  Line size:             64 B
+  Number of Lines:      512
+  Associativity:          8
+
+L2 Unified Cache:
+  Total size:           256 KB
+  Line size:             64 B
+  Number of Lines:     4096
+  Associativity:          8
+
+L3 Unified Cache:
+  Total size:          8192 KB
+  Line size:             64 B
+  Number of Lines:   131072
+
+compute-881-2
+
+L1 Data Cache:
+  Total size:            32 KB
+  Line size:             64 B
+  Number of Lines:      512
+  Associativity:          8
+
+L2 Unified Cache:
+  Total size:           256 KB
+  Line size:             64 B
+  Number of Lines:     4096
+  Associativity:          8
+
+L3 Unified Cache:
+  Total size:          8192 KB
+  Line size:             64 B
+  Number of Lines:   131072
+  Associativity:         16
+
+
+
+
+
+  
+  
