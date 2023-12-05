@@ -1,4 +1,5 @@
-# Projeto prático da unidade curricular de Computacão Paralela
+#  BucketSortParallelization
 
-Este trabalho tem como objetivo avaliar a aprendizagem da programação paralela em memória partilhada
-utilizando C e OpenMP, ao desenvolver uma versão paralela do algoritmo de bucket-sort.
+Pratical Project for Computação Paralela curricular unit.
+
+The objective of this work is to evaluate the learning of shared memory parallel programming using C and OpenMP by developing a parallel version of the bucket-sort algorithm.
